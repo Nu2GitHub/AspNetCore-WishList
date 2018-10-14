@@ -5,7 +5,7 @@ namespace WishList.Controllers.Home
 {
     public class HomeController : Controller
     {
-        public IActionResult Home()
+        public IActionResult Index()
         {
             return View("Index");
         }
