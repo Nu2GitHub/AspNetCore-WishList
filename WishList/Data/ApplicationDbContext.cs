@@ -12,7 +12,8 @@ namespace Data.WishList
             set;
         }
 
-        public ApplicationDbContext(DbContextOptions options) : base(options)
+        public ApplicationDbContext(DbContextOptions options) 
+            : base(options)
         {
 
         }
