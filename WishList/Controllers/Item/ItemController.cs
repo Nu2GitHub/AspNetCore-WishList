@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using WishList.Data;
 using System.Linq;
 
-namespace WishList.Controllers.Item
+namespace WishList.Controllers
 {
     public class ItemController : Controller
     {
